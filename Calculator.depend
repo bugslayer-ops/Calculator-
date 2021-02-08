@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1612705437 source:c:\users\admin\desktop\c programming\calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"menu.h"
+
+1612778567 c:\users\admin\desktop\c programming\calculator\menu.h
+	"function.h"
+
+1612778443 c:\users\admin\desktop\c programming\calculator\function.h
+
